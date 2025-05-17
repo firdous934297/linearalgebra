@@ -1,0 +1,38 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color:darkslategrey;
+    color: black;
+}
+header logo{
+    width: 100px;
+}
+header logo img{
+    width: 100px;
+    height: auto;
+}
+header.Collegename{
+    text-align: center;
+
+}
+.fontstyle{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
+.table{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.footer{
+    padding: 10px;
+    width: 100%;
+    display:flex;
+    background-color:darkslategrey;
+    color: black;
+    text-align: center;
+    margin-top: 20%;
+    justify-content: space-between;
+}
